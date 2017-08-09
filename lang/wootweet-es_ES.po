@@ -1,0 +1,302 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooTweet\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-11 01:25+0500\n"
+"PO-Revision-Date: 2017-06-11 01:38+0500\n"
+"Language-Team: Qamar Sheeraz <info@genialsouls.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"esc_html_e\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-Basepath: ..\n"
+"Last-Translator: \n"
+"Language: es\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/class-woo-tweet.php:108
+msgid "Image"
+msgstr "Imagen"
+
+#: classes/class-woo-tweet.php:109
+msgid "Name"
+msgstr "Nombre"
+
+#: classes/class-woo-tweet.php:110
+msgid "Tweet Button?"
+msgstr "Botón de Twitter"
+
+#: classes/class-woo-tweet.php:111
+msgid "Tweeted?"
+msgstr "¿Escribió en Twitter?"
+
+#: classes/class-woo-tweet.php:193
+msgid "WooTweet:"
+msgstr "WooTweet:"
+
+#: classes/class-woo-tweet.php:201
+msgid "Tweet it?"
+msgstr "Publica un nuevo Tweet"
+
+#: classes/class-woo-tweet.php:203
+msgid "Show Tweet button?"
+msgstr "Botón de Tweet"
+
+#: classes/class-woo-tweet.php:266
+msgid "WooTweet Options"
+msgstr "Opciones de WooTweet"
+
+#: classes/class-woo-tweet.php:273
+msgid "Tweet everytime on product update?"
+msgstr "¿Tweet cada vez que el producto de actualización?"
+
+#: classes/class-woo-tweet.php:281
+msgid "Get error notifications by email?"
+msgstr "¿Obtener notificaciones de error por correo electrónico?"
+
+#: classes/class-woo-tweet.php:336
+msgid "Settings"
+msgstr "Ajustes"
+
+#: classes/class-woo-tweet.php:366
+msgid "Price: "
+msgstr "Precio:"
+
+#: classes/class-woo-tweet.php:370 classes/class-woo-tweet.php:374
+msgid "Link: "
+msgstr "Enlace:"
+
+#: classes/wootweet_widget.php:13
+msgid "WooTweet Widget"
+msgstr "* WooTweet gratis *"
+
+#: classes/wootweet_widget.php:14
+msgid "A WooTweet Widget to show user tweets"
+msgstr "Un WooTweet Widget para mostrar tweets del usuario"
+
+#: classes/wootweet_widget.php:45
+msgid "Tweets by "
+msgstr "Tweets por"
+
+#: classes/wootweet_widget.php:60
+msgid "New title"
+msgstr "Nuevo titulo"
+
+#: classes/wootweet_widget.php:74
+msgid "Twitter Username"
+msgstr "Nombre de usuario de Twitter"
+
+#: classes/wootweet_widget.php:75
+msgid "Enter Twitter Account"
+msgstr "Introduzca la cuenta de Twitter"
+
+#: classes/wootweet_widget.php:79
+msgid "Theme"
+msgstr "Tema"
+
+#: classes/wootweet_widget.php:81
+msgid "Light"
+msgstr "Claro"
+
+#: classes/wootweet_widget.php:82
+msgid "Dark"
+msgstr "Oscuro"
+
+#: classes/wootweet_widget.php:85
+msgid "URL Color"
+msgstr "Color de la URL"
+
+#: classes/wootweet_widget.php:97
+msgid "Height"
+msgstr "Altura"
+
+#: classes/wootweet_widget.php:101
+msgid "Width"
+msgstr "Ancho"
+
+#: right_area.php:4
+msgid "WooTweet Pro is here"
+msgstr "WooTweet Pro es aquí"
+
+#: right_area.php:54
+msgid "Liked WooTweet?"
+msgstr "Me gustó WooTweet?"
+
+#: right_area.php:63
+msgid "Need more help? Please contact: "
+msgstr "¿Necesitas más ayuda? Por favor, póngase en contacto con:"
+
+#: right_area.php:66
+msgid "Contact Us"
+msgstr "Contacte con nosotros"
+
+#: wootweet.logins.php:10 wootweet.logins.php:14
+msgid "WooTweet Logins"
+msgstr "WooTweet Logins"
+
+#: wootweet.logins.php:16
+msgid ""
+"Connect your site to Twitter and automatically share new products with your "
+"friends."
+msgstr ""
+"Conecte su sitio a los sitios de redes sociales y compartir automáticamente "
+"los nuevos productos con tus amigos."
+
+#: wootweet.logins.php:20
+msgid "Important Notice:"
+msgstr "Aviso importante:"
+
+#: wootweet.logins.php:22
+msgid ""
+"You are using Internet Explorer. This plugin may not work properly with IE. "
+"Please use any other browser."
+msgstr ""
+"Está utilizando Internet Explorer. Este complemento puede no funcionar "
+"correctamente con IE. Utilice cualquier otro navegador."
+
+#: wootweet.logins.php:23
+msgid "Recommended: Google Chrome."
+msgstr "Recomendado: Google Chrome."
+
+#: wootweet.logins.php:37
+msgid "Consumer key:"
+msgstr "Clave del consumidor:"
+
+#: wootweet.logins.php:39
+msgid "Consumer key"
+msgstr "Clave del consumidor"
+
+#: wootweet.logins.php:40
+msgid "Don't have an app? You can create from "
+msgstr "¿No tienes una aplicación? Usted puede obtener de"
+
+#: wootweet.logins.php:45
+msgid "Consumer secret:"
+msgstr "Secreto del consumidor:"
+
+#: wootweet.logins.php:47
+msgid "Consumer secret"
+msgstr "Secreto del consumidor"
+
+#: wootweet.logins.php:52
+msgid "Access token:"
+msgstr "Token de acceso:"
+
+#: wootweet.logins.php:54
+msgid "Access token"
+msgstr "Token de acceso"
+
+#: wootweet.logins.php:59
+msgid "Access token secret:"
+msgstr "Secreto del token de acceso:"
+
+#: wootweet.logins.php:61
+msgid "Access token secret"
+msgstr "Secreto del token de acceso"
+
+#: wootweet.logins.php:69
+msgid "Save"
+msgstr "Guardar"
+
+#: wootweet.logins.php:86
+msgid "How to use WooTweet Free!"
+msgstr "Cómo usar WooTweet gratis!"
+
+#: wootweet.logins.php:87
+msgid "from"
+msgstr "de"
+
+#: wootweet.logins.php:88
+msgid "on"
+msgstr "en"
+
+#: wootweet.logins.php:91
+msgid "You may also like:"
+msgstr "También te puede interesar:"
+
+#: wootweet.logins.php:101
+msgid "* WP Instagram Post *"
+msgstr "* WP Instagram Post *"
+
+#: wootweet.logins.php:102
+msgid "* Post any type of post to Instagram."
+msgstr "* Publica cualquier tipo de publicación en Instagram."
+
+#: wootweet.logins.php:103
+msgid "* Post product price, currency symbol, link, details."
+msgstr ""
+"* Publicar el precio del producto, símbolo de moneda, enlace, detalles."
+
+#: wootweet.logins.php:104
+msgid "* Post products multiple times. (on every update)"
+msgstr "* Publicar productos varias veces (en cada actualización)"
+
+#: wootweet.logins.php:105
+msgid "* Simple to use with Instagram user and password."
+msgstr "* Fácil de usar con Instagram usuario y contraseña."
+
+#: wootweet.logins.php:106 wootweet.logins.php:127 wootweet.logins.php:148
+msgid "* And many more..."
+msgstr "y muchos otros..."
+
+#: wootweet.logins.php:120
+msgid "* WooSocio Pro version *"
+msgstr "* WooSocio versión Pro *"
+
+#: wootweet.logins.php:121
+msgid "* product gallery images as Facebook gallery"
+msgstr "* Galería de imágenes de producto como Galería de Facebook"
+
+#: wootweet.logins.php:122
+msgid "* post to multiple pages and/or groups at once"
+msgstr "* publicar múltiples páginas o grupos a la vez"
+
+#: wootweet.logins.php:123
+msgid "* Optional time delay between posting"
+msgstr "* Opcional tiempo de espera entre la publicación"
+
+#: wootweet.logins.php:124
+msgid "* Bulk posts to pages, groups"
+msgstr "* Bulto entradas a páginas, grupos"
+
+#: wootweet.logins.php:125
+msgid "* Multi user ready"
+msgstr "* Multi usuario listo"
+
+#: wootweet.logins.php:126
+msgid "* Bulk like/share button on/off option"
+msgstr "* Granel como el botón / acción encendido / apagado opción"
+
+#: wootweet.logins.php:141
+msgid "* File Manager *"
+msgstr "Administrador de archivos"
+
+#: wootweet.logins.php:142
+msgid "* BuddyPress Group File Share."
+msgstr "* BuddyPress grupo compartido."
+
+#: wootweet.logins.php:143
+msgid "* Create Download Area."
+msgstr "* Crear la zona de descargas."
+
+#: wootweet.logins.php:144
+msgid "* Group file sharing."
+msgstr "* Grupo de uso compartido de archivos."
+
+#: wootweet.logins.php:145
+msgid "* Seven types of input fields."
+msgstr "* Siete tipos de campos de entrada."
+
+#: wootweet.logins.php:146
+msgid "* FTP files upload for Users by Admin ( v 9.3+ )"
+msgstr "* Subir archivos FTP usuarios por Admin (v 9.3 +)"
+
+#: wootweet.logins.php:147
+msgid "* Front end File Searching and Pagination."
+msgstr "* Frontal final archivo búsqueda y paginación."
